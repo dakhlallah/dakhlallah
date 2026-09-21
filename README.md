@@ -2,16 +2,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151126,45:3D1A78,100:6D00CC&height=220&section=header&text=Dakhlallah&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=AI%20systems%20%7C%20automation%20%7C%20product%20design&descAlignY=61&descSize=18&descColor=E9D5FF" alt="Dakhlallah profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071320,55:0B1B2B,100:C9A961&height=220&section=header&text=Dakhlallah&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=AI%20systems%20%7C%20automation%20%7C%20digital%20craft&descAlignY=61&descSize=18&descColor=F4E7C1" alt="Dakhlallah profile header" />
 
-# Building useful systems with taste
+# From systems to spaces
 
-I design and ship AI-powered products, voice workflows, and polished digital experiences — from the first idea to the last reliable automation.
+I design and ship intelligent products, dependable automations, and digital experiences with a strong sense of place — from the first idea to the last reliable detail.
 
 <p>
   <a href="https://github.com/dakhlallah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/dakhlallah/dakhlallah-concierge-make"><img src="https://img.shields.io/badge/Great%20White%20Concierge-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Great White Concierge" /></a>
-  <a href="https://greatwhite.me"><img src="https://img.shields.io/badge/Great%20White-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Great White" /></a>
+  <a href="https://github.com/dakhlallah/dakhlallah-concierge-make"><img src="https://img.shields.io/badge/Great%20White%20Concierge-0B1B2B?style=for-the-badge&logo=make&logoColor=C9A961" alt="Great White Concierge" /></a>
+  <a href="https://greatwhite.me"><img src="https://img.shields.io/badge/Great%20White-C9A961?style=for-the-badge&logo=safari&logoColor=071320" alt="Great White" /></a>
 </p>
 
 <p><strong>Follow along for practical AI, automation patterns, and product experiments.</strong></p>
@@ -26,6 +26,12 @@ I design and ship AI-powered products, voice workflows, and polished digital exp
 | **Automation** | Make.com scenarios, API orchestration, voice calls, webhooks, and reliable state machines |
 | **Product design** | Clear interfaces, strong visual systems, thoughtful onboarding, and useful motion |
 | **Native experiences** | SwiftUI, mobile flows, and polished prototypes that feel calm and intentional |
+
+<div align="center">
+
+<sub><em>Clear structure. Warm details. Built to last.</em></sub>
+
+</div>
 
 ## Featured build
 
@@ -52,9 +58,9 @@ Slack request → AI extraction → restaurant discovery → guest call
 
 ## Selected work
 
+- [**SOCODECO**](https://github.com/dakhlallah/socodeco-website) — a cinematic construction and real-estate experience for Kinshasa, built around craft, place, and long-term value.
 - [**Great White Concierge**](https://github.com/dakhlallah/dakhlallah-concierge-make) — Make.com + Slack + Twilio + Railway voice orchestration.
 - [**Great White**](https://github.com/dakhlallah/Greatwhite.me) — a design-led studio presence for digital products.
-- [**SOCODECO**](https://github.com/dakhlallah/socodeco-website) — a focused public website experience.
 - [**Arch Render**](https://github.com/dakhlallah/arch-render) — preservation-first architectural intelligence and documentation.
 
 ## The stack
@@ -64,8 +70,8 @@ Slack request → AI extraction → restaurant discovery → guest call
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make.com" />
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Make.com-0B1B2B?style=flat-square&logo=make&logoColor=C9A961" alt="Make.com" />
+  <img src="https://img.shields.io/badge/OpenAI-0B1B2B?style=flat-square&logo=openai&logoColor=F4E7C1" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
   <img src="https://img.shields.io/badge/Railway-111827?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
@@ -73,8 +79,8 @@ Slack request → AI extraction → restaurant discovery → guest call
 
 ## How I build
 
-> Make the experience feel simple.  
-> Make the system behave reliably.  
+> Start with the place.
+> Build with intention.
 > Make the details worth noticing.
 
 I care about the space between a good idea and a dependable product: the edge cases, the handoff, the wording, the loading state, and the moment where automation should pause and let a person decide.
@@ -87,6 +93,6 @@ If you are working on an AI product, an automation-heavy workflow, or a design s
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dakhlallah&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D00CC&icon_color=6D00CC&text_color=6B7280)](https://github.com/dakhlallah)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D00CC,55:3D1A78,100:151126&height=110&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A961,55:0B1B2B,100:071320&height=110&section=footer" alt="" />
 
 </div>
