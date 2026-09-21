@@ -14,6 +14,8 @@ I design and ship AI-powered products, voice workflows, and polished digital exp
   <a href="https://greatwhite.me"><img src="https://img.shields.io/badge/Great%20White-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Great White" /></a>
 </p>
 
+<p><strong>Follow along for practical AI, automation patterns, and product experiments.</strong></p>
+
 </div>
 
 ## What I work on
@@ -31,10 +33,10 @@ I design and ship AI-powered products, voice workflows, and polished digital exp
 
 A Make.com-powered restaurant concierge that turns a dinner request into a coordinated guest call and booking workflow.
 
-\`\`\`text
+```text
 Slack request → AI extraction → restaurant discovery → guest call
              → restaurant confirmation → Calendar + Sheets → Slack timeline
-\`\`\`
+```
 
 - Restaurant name is optional: city, date, time, party size, and preferences are enough.
 - Real venues are discovered from live search; nothing is invented.
@@ -42,6 +44,11 @@ Slack request → AI extraction → restaurant discovery → guest call
 - English, French, and Arabic voice flows are supported.
 
 [Explore the concierge →](https://github.com/dakhlallah/dakhlallah-concierge-make)
+
+<p>
+  <a href="https://github.com/dakhlallah/dakhlallah-concierge-make"><img src="https://img.shields.io/github/stars/dakhlallah/dakhlallah-concierge-make?style=social" alt="Star Great White Concierge" /></a>
+  <a href="https://github.com/dakhlallah/dakhlallah-concierge-make/issues"><img src="https://img.shields.io/badge/ideas%20and%20feedback-open-6D00CC?style=flat-square" alt="Ideas and feedback" /></a>
+</p>
 
 ## Selected work
 
@@ -72,6 +79,10 @@ Slack request → AI extraction → restaurant discovery → guest call
 
 I care about the space between a good idea and a dependable product: the edge cases, the handoff, the wording, the loading state, and the moment where automation should pause and let a person decide.
 
+## Let’s build something useful
+
+If you are working on an AI product, an automation-heavy workflow, or a design system that needs more clarity, open an issue in a project or connect through [Great White](https://greatwhite.me).
+
 <div align="center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dakhlallah&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D00CC&icon_color=6D00CC&text_color=6B7280)](https://github.com/dakhlallah)
@@ -79,4 +90,3 @@ I care about the space between a good idea and a dependable product: the edge ca
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D00CC,55:3D1A78,100:151126&height=110&section=footer" alt="" />
 
 </div>
-
