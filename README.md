@@ -63,6 +63,14 @@ Slack request → AI extraction → restaurant discovery → guest call
 - [**Great White**](https://github.com/dakhlallah/Greatwhite.me) — a design-led studio presence for digital products.
 - [**Arch Render**](https://github.com/dakhlallah/arch-render) — preservation-first architectural intelligence and documentation.
 
+### Explore by lane
+
+| Lane | Start here |
+| --- | --- |
+| **AI & automation** | [Great White Concierge](https://github.com/dakhlallah/dakhlallah-concierge-make) · [Arch Render](https://github.com/dakhlallah/arch-render) · [Nano Banana prompts](https://github.com/dakhlallah/nano-banana-pro-prompts) |
+| **Design & web** | [Great White](https://github.com/dakhlallah/Greatwhite.me) · [SOCODECO](https://github.com/dakhlallah/socodeco-website) |
+| **Mobile & interaction** | [ConcentricOnboarding](https://github.com/dakhlallah/ConcentricOnboarding) · [Flutter commerce](https://github.com/dakhlallah/flutter-ecommerce-demo) |
+
 ## The stack
 
 <p>
